@@ -1,0 +1,13 @@
+{
+  "name": "kumo-example-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/samuela/kumo-example-repo.git",
+  "author": "Samuel Ainsworth <skainsworth@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/express": "^4.16.0",
+    "express": "^4.16.3",
+    "typescript": "^3.0.3"
+  }
+}
